@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou a Jeniffer Alves (Jeni)</h1>
 <h3 align="center">Passei pela transição de carreira em agosto de 2021, de Serviço Social para a área de TI.</h3>
 
-- 🔭 Atualmente sou Desenvolvedora ABAP na Empresa Accenture Brasil - Através da [Academia SAP ABAP](https://www.linkedin.com/in/jeniffer-a-472230107/)
+- 🔭 Atualmente sou Desenvolvedora ABAP na Empresa Accenture Brasil - Através da [Academia SAP ABAP](https://www.linkedin.com/company/accenturebrasil/)
 
 - 📫 Vejo meu e-mail 24h do dia, só chamar! **jenniiffeerr@gmail.com**
 
