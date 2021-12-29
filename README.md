@@ -24,4 +24,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhenial&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/7f7d13bdff3130c98e88b3255b48e12a.gif">
+<h1 align="center">Obrigada por me visitar!!!</h1>   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/7f7d13bdff3130c98e88b3255b48e12a.gif">
