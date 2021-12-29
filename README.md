@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente sou Desenvolvedora ABAP na Empresa Accenture Brasil - Através da [Academia SAP ABAP](https://www.linkedin.com/company/accenturebrasil/)
 
-- 📫 Vejo meu e-mail 24h do dia, só chamar! **jenniiffeerr@gmail.com**
+- 📫 Vejo meu e-mail 24h do dia, só chamar! **jennniiffeerr@gmail.com**
 
 - 🔭 Participei do Bootcamp da Reprograma entre Agosto de 2021 e Dezembro de 2021 - [Projeto final: Condomínio, recicla!](https://github.com/Jhenial/Projeto_Final_Condominio_Recicla.git)
 
